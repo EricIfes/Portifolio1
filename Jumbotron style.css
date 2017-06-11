@@ -1,0 +1,25 @@
+.jumbotron {
+	margin-bottom: 0px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(Eric F2.jpg);
+	background-position: 35% 35%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	text-shadow: 0em 0em 1em #E1DDDD;
+	background-attachment: scroll;
+	background-image: url(Eric%20F2.jpg);
+}
